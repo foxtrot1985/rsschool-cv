@@ -1,1 +1,2 @@
-# rsschool-cv
+
+https://foxtrot1985.github.io/rsschool-cv/cv
